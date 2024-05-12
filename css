@@ -1,0 +1,93 @@
+.bloco1 {
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    text-align: center;
+    background: black;
+    padding:  20px;
+    border: 5px solid blue;
+    border-radius: 40px;
+}
+.bloco1:hover {
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align: center;
+    background: rgb(229, 80, 0);
+    padding:  20px;
+    border: 5px solid rgb(0, 199, 20);
+    border-radius: 40px;
+}
+
+
+body{
+    background-image: linear-gradient(to bottom, rgb(192, 98, 3),rgb(47, 207, 14), rgb(1, 104, 1));
+}
+
+
+.img{
+    height: 300px;
+    margin-left: 500px;
+}
+
+
+.tamanho{
+    font-size: x-large;
+    text-align:left;
+    margin-left: 200px;
+    margin-right: 120px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h2{
+    margin-left: 120px;
+    font-size: xx-large;
+}
+
+.img2{
+    margin-left: 500px;
+}
+#menu {
+    bottom: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100px;
+    margin: auto;
+}
+.botao-menu {
+    border-radius: 25px 25px 25px 25px;
+    background-color: rgb(2, 67, 0);
+    border: #4655fe;
+    height: 51px;
+    width: 290px;
+    position: fixed;
+    bottom: 15px;
+}
+.icone-github {
+    height: 25px;
+    margin: 8px;
+    position: relative;
+    bottom: 3px;
+}
+.h12 {
+    margin-left: 120px;
+    font-size: xx-large;
+    color: rgb(190, 0, 0);
+}
+div{
+    display: inline-block;
+    height: 150px;
+    width: 30%;
+}
+.black {
+    background-color: rgb(192, 98, 3);
+    margin-left: 25px;
+}
+.azul {
+    background-color: rgb(47, 207, 14);
+    margin-left: 25px;
+}
+.verde {
+    background-color: rgb(1, 104, 1);
+    margin-left: 25px;
+}
