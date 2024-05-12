@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <h1 class="bloco1">CARS AUTOMOTIONS</h1><br>
+        
+        <h1 class="h12">Sobre Nós:</h1>
+                <p class="tamanho">Nós compramos os carros dos filmes e colocamos em leilão para os fanáticos em carros. Os leilões são organizados nos E.U.A, pois no país ocorre de ter muitos pilotos e eles gostam de sempre ter uma máquina nova em sua garagem.</p>
+
+            <div class="black">
+                    <p style="color: white;"> A Cars Automotion é uma empresa especializada em leilões de carros usados em filmes, oferecendo aos entusiastas e colecionadores a oportunidade única de possuir um pedaço da história cinematográfica. Com uma vasta experiência no mercado, a empresa tornou-se uma referência na indústria, proporcionando uma plataforma confiável e transparente para a compra e venda de veículos icônicos usados em produções cinematográficas.
+                    </p>
+                </div>
+                    <div class="azul">
+                        <p style="color: white;">   A Cars Automotion é cuidadosamente planejado para oferecer uma seleção diversificada de carros que cativaram o público nas telonas. Desde clássicos restaurados até veículos personalizados de filmes de ação, a empresa se destaca por sua variedade e qualidade de inventário. Além disso, sua equipe de especialistas em autenticação garante a legitimidade de cada veículo, proporcionando aos compradores confiança e tranquilidade durante o processo de compra.
+                        </p>
+                </div>
+                    <div class="verde">
+                        <p style="color: white;">Temos uma comunidade global de entusiastas de cinema e colecionadores de carros, a Cars Automotion não apenas facilita transações comerciais,nós promovemos a paixão pelo cinema e pela cultura automotiva. com um ávido em busca da réplica perfeita do carro de seu filme favorito ou um investidor em potencial interessado em adquirir um veículo de alto valor histórico. Nós sempre estamos dando nosso melhor e entragando tudo aos nosso clientes.
+                        </p>
+                </div>                
+            </div>
+        
+        <br><br><br></br>
+        <h1 style="margin-left: 54px; color: rgb(210, 0, 0);" > Dois de Nossos trabalhos:</h1>
+        <br><br><br>
+        <img class="img" src="img/transferir (1).jpg" alt="supra velozes e furiosos"><br><br>
+         <p class="tamanho">A história do Supra do filme Velozes e Furiosos 1 começa em junho de 1998, com o atual proprietário (Craig Lieberman) adquirindo este Toyota Supra 1994 já com 54.000 milhas rodadas. O carro anteriormente pertencia à um executivo e estava totalmente original quando foi vendido para o atual dono.</p>
+         <p class="tamanho"> Logo depois da aquisição, o Supra sofreu uma série de modificações com o intuito de ser usado na promoção em eventos de algumas empresas de tuning como GReddy, Eibach, Stillen, Clarion e NOS.
+         A primeira etapa das modificações feita no carro veio com uma pintura amarela, rodas de aro 18 e um novo sistema de som junto com pequenas alterações no visual e no motor, depois disso o carro já começava a fazer sucesso nos eventos de tuning e acabou ganhando 6 capas de revistas.</p><br>
+
+
+            <h2 style="color: rgb(218, 9, 12);">Mudanças mecânicas…</h2>
+
+
+            <p class="tamanho"> Logo depois o Toyota Supra recebeu a segunda rodada de equipamentos, desta vez ganhou um motor Spec T-66 turbo, um sistema de Nitro NOS e alguns componentes da GReddy e AP Racing. De acordo com um levantamento da cesta de peças e modificações feitas no motor deste Supra superam os US$ 20.000, somente as turbinas Turbonetics T-66 e o compressor Performance Factory, custam mais de US$ 7 mil dólares, ainda no motor foram gastos mais de US$ 3 mil para cromar quase todas as peças em aço visíveis.
+<br><br>
+            Lembrando que originalmente o motor 3.0 turbo, 6 cilindros do Toyota Supra rendia algo em torno de 330 cv, após as modificações a potência estimada nas rodas passou a ser próxima aos 550 cv.
+<br><br>               
+            Com o motor quase dobrando sua potência, o câmbio do Supra também teve que ser modificado, foi instalado uma caixa manual com adaptador sequencial de competição, Gertrag, que custou US$ 6.200.
+<br><br>              
+             A suspensão ganhou novas molas e amortecedores de corrida “coil-over” da Bilstein / Eibach, além de novas barras anti-rolagem ao custo em torno de US$ 3.000. Os freios também foram aprimorados, são de alta performance com discos de 14 polegadas na dianteira mordidos por pinças de 6 pistões, somente o sistema de freios do Supra custou US$ 4 mil.
+<br><br>                
+             Um detalhe interessante é que todas as modificações finais feita na mecânica do Supra receberam aprovação dos engenheiros da Toyota (TRD), especializados no desenvolvimento do Supra Turbo oficial de rua.
+<br><br>                
+            Após as modificações mecânicas o Supra do Velozes e Furiosos já andava forte e vencia algumas corridas de Drag como a “Ultimate Street Car Challenge,” uma das maiores competições do gênero.</p>
+<br><br>
+            <img class="img2" src="img/images (5).jpg" alt="toretto">
+<br><br>
+            <p class="tamanho">O Charger do filme, na realidade, pertencia ao pai de Toretto, que morre em um acidente numa corrida de stock car. O personagem diz ter medo de pilotar o carro. Porém, acaba não resistindo após reforma-lo ao longo dos anos e, logo no fim do filme, aparece a bordo do Dodge num racha contra Brian O’Conner (Paul Walker) com seu Toyota Supra.</p>
+            <p class="tamanho">De acordo com Vin Diesel, o Charger R/T do filme Velozes e Furiosos contava com uma preparação mecânica (como um supercharger sobre o capô e nitro) e podia chegar a 900 cavalos de potência. Para se ter uma noção, o Dodge original usa um motor 440 Magnum V8 que desenvolve 400 cv.
+<br><br>
+                <p class="tamanho">Porém, no filme Velozes e Furiosos 4, o muscle-car reaparece com algumas diferenças. A começar pela pintura, o bólido recebeu uma nova tonalidade em preto fosco. O Dodge Charger ganhou também uma nova grade frontal com desenho interno tipo grelha e um novo para-choque frontal com pintura.</p>
+<br>               
+                <p class="tamanho">O Charger R/T também marcou presença no quinto filme da saga Velozes e Furiosos, desta vez sem o supercharger e com a grade dianteira original e carroceria na cor cinza. Já no filme Velozes e Furiosos 7, o carro fez sua última aparição (pelo menos até o momento), com o supercharger de volta e ainda com novas rodas.</p>
+
+                <div id="menu">
+                <button class="botao-menu">
+                    <a href="https://github.com/babirel20/estudo-site" target="_blank" rel="external"> <img src="img/icone-github.png" alt="github" class="icone-github" id="icone-github"></a>
+                </button>
+                </div>
+                <h1 style="margin-left: 50px;color: rgb(11, 58, 0); ">Um pouco mais sobre nós:</h1>
+                <br>
+                <p class="tamanho">A Cars Automotion é uma empresa revolucionária no mundo dos leilões de carros de filmes, elevando essa indústria a novos patamares de sucesso e reconhecimento global. Com sede em uma cidade movimentada, a empresa rapidamente se tornou sinônimo de qualidade, autenticidade e paixão por veículos icônicos do cinema.
+                <br><br>
+                    Desde sua fundação, a Cars Automotion vem conquistando o coração de colecionadores e entusiastas de todo o mundo, oferecendo uma ampla variedade de carros de filmes que marcaram época. De Batmobiles a DeLoreans, passando por muscle cars lendários e até mesmo veículos futuristas, os leilões da Csrs Automotion são verdadeiros eventos para os aficionados por cinema e automóveis.
+                    <br><br>
+                    O sucesso da empresa não se limita apenas ao seu país de origem; seus leilões têm alcançado fama internacional, atraindo participantes e lances de colecionadores e admiradores de todos os continentes. Com transmissões ao vivo pela internet, a Csrs Automotion conseguiu ampliar seu alcance e impacto, permitindo que entusiastas de todo o mundo participem desses eventos emocionantes.
+                    <br><br>
+                    Além de proporcionar acesso a carros de filmes lendários, a Cars Automotion também se destaca pela sua integridade e transparência em todas as transações. Cada veículo é cuidadosamente autenticado e documentado, garantindo aos compradores a certeza de adquirir itens genuínos e de qualidade.
+                    <br><br>
+                    Os sucessos da Cars Automotion não se resumem apenas aos lucros financeiros; a empresa também desempenha um papel importante na preservação da história do cinema e da cultura automotiva. Ao preservar e disponibilizar esses veículos icônicos para colecionadores e admiradores, a Csrs Automotion contribui para manter viva a memória de filmes que marcaram gerações.
+                    <br><br>
+                    Em suma, a Cars Automotion é muito mais do que uma empresa de leilões de carros de filmes; é uma verdadeira guardiã do legado cinematográfico e automotivo, celebrando a paixão e o fascínio que esses veículos icônicos despertam em pessoas de todas as idades e lugares do mundo.
+                    </p>
+
+            <p>ENDEREÇO:</p>
+            <p>  CEP:65044-281</p>
+            <p>Bairro:Coradinho
+                Rua: Rua da união/Cidade São luís Estado (MA)</p>
+            <p>CNPJ:92.319.283/0001-57</p>
+</body>
+</html>
