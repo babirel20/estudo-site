@@ -1,3 +1,10 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, #8446F0,#8346F0,#4676F0,#46ACF0);
+}
+
+
 .bloco1 {
     color: rgb(255, 255, 255);
     font-size: xx-large;
@@ -6,88 +13,66 @@
     padding:  20px;
     border: 5px solid blue;
     border-radius: 40px;
-}
-.bloco1:hover {
-    color: rgb(0, 0, 0);
-    font-size: xx-large;
-    text-align: center;
-    background: rgb(229, 80, 0);
-    padding:  20px;
-    border: 5px solid rgb(0, 199, 20);
-    border-radius: 40px;
+    background-size: 100px;
 }
 
-
-body{
-    background-image: linear-gradient(to bottom, rgb(192, 98, 3),rgb(47, 207, 14), rgb(1, 104, 1));
+main {
+    font-size: larger;
+   background-color: rgb(0, 0, 0);
+   width: 1000px;
+   padding: 10px;
+   margin: auto;
+   border-radius: 20px;
 }
 
-
-.img{
-    height: 300px;
-    margin-left: 500px;
-}
-
-
-.tamanho{
-    font-size: x-large;
+p {
+    text-align: justify;
+    color: white;
+    margin-left: 40px;
     text-align:left;
-    margin-left: 200px;
-    margin-right: 120px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color: rgb(128, 31, 207);
 }
 
 
-h2{
-    margin-left: 120px;
-    font-size: xx-large;
-}
 
-.img2{
-    margin-left: 500px;
-}
 #menu {
     bottom: auto;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: right;
     height: 100px;
     margin: auto;
 }
 .botao-menu {
     border-radius: 25px 25px 25px 25px;
-    background-color: rgb(2, 67, 0);
+    background-color: rgb(62, 0, 177);
     border: #4655fe;
     height: 51px;
-    width: 290px;
+    width: 190px;
     position: fixed;
     bottom: 15px;
 }
 .icone-github {
+    height: 30px;
+    margin: 8px;
+    position: relative;
+    bottom: 3px;
+}
+
+.icons8-instagram-48.png {
     height: 25px;
     margin: 8px;
     position: relative;
     bottom: 3px;
 }
-.h12 {
-    margin-left: 120px;
-    font-size: xx-large;
-    color: rgb(190, 0, 0);
+
+
+.img1 {
+    padding-left: 370px;
+    width: 300px;
 }
-div{
-    display: inline-block;
-    height: 150px;
-    width: 30%;
-}
-.black {
-    background-color: rgb(192, 98, 3);
-    margin-left: 25px;
-}
-.azul {
-    background-color: rgb(47, 207, 14);
-    margin-left: 25px;
-}
-.verde {
-    background-color: rgb(1, 104, 1);
-    margin-left: 25px;
+.img2 {
+    padding-left: 250px; 
 }
